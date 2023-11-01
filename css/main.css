@@ -639,6 +639,27 @@ label.error {
   width: 100%;
 }
 
+.contact #success {
+  display: none;
+}
+
+.contact #success h4 {
+  color: green;
+}
+
+.contact #error {
+  display: none;
+}
+
+.contact #error h4 {
+  color: red;
+}
+
+#form-submit:hover {
+  transition: all .3s ease-in 0s;
+  color: #E71B64;
+}
+
 
 
 /*=========================================

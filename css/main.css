@@ -2,11 +2,20 @@
 /*	Basic Style 
 /* =================================== */
 
+
+@font-face {
+  font-family: "Champagne & Limousines";
+  src: url('../fonts/Champagne\ &\ Limousines.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
 body {
   background-color: #fff;
-  font-family: 'Open Sans', sans-serif;
-  line-height: 21px;
-  font-size: 13px;
+  font-family: 'Champagne & Limousines';
+  line-height: 25px;
+  font-size: 18px;
   color: #6a737b;
 }
 

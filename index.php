@@ -64,9 +64,9 @@
 <body id="body">
 
     <!-- preloader -->
-    <div id="preloader">
+    <!-- <div id="preloader">
         <img src="img/preloader.gif" alt="Preloader">
-    </div>
+    </div> -->
     <!-- end preloader -->
 
     <!-- 

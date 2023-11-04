@@ -89,9 +89,8 @@ body>section,
   padding: 70px 0;
 }
 
-.sec-title h2 {
+.sec-title h1 {
   color: #E71B64;
-  font-size: 28px;
   font-weight: 800;
   text-transform: uppercase;
 }
@@ -317,7 +316,6 @@ body>section,
 }
 
 .service-icon {
-  border: 1px solid #E71B64;
   border-radius: 50%;
   color: #E71B64;
   float: left;
@@ -386,6 +384,7 @@ body>section,
   height: 500px;
   width: 100%;
   object-fit: cover;
+  background-color: #352F44;
 }
 
 .overlay {
@@ -411,6 +410,15 @@ body>section,
   -ms-transform: rotateY(180deg) scale(0.5, 0.5);
   -o-transform: rotateY(180deg) scale(0.5, 0.5);
   transform: rotateY(180deg) scale(0.5, 0.5);
+}
+
+.work-item .overlay {
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  line-height: 24px;
 }
 
 .work-item:hover .overlay {
@@ -456,9 +464,10 @@ body>section,
 ==========================================*/
 
 .test-thumb {
-  height: auto;
-  overflow: hidden;
+  height: 350px;
+  overflow: auto;
   position: relative;
+  padding: 25px;
 }
 
 .test-thumb .overlay h5 {
@@ -470,13 +479,23 @@ body>section,
 
 .test-thumb .overlay {
   font-size: 16px;
-  padding: 70px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
   line-height: 24px;
 }
 
 .test-thumb img {
   width: 100%;
   object-fit: contain;
+}
+
+.testimonial {
+  background-color: #f4f7f9;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 10px 1px;
 }
 
 .testimonial h4 {
@@ -499,8 +518,38 @@ body>section,
   transform: rotateY(0deg) scale(1, 1);
 }
 
-.testimonial:hover h4 {
+.testimonial .overlay h4 {
+  color: #fff;
+}
+
+.testimonial i {
   color: #E71B64;
+  margin-bottom: 20px;
+}
+
+.testimonial .overlay i {
+  color: #fff;
+}
+
+/*=========================================
+	Brands
+==========================================*/
+
+#brands {
+  background-image: url("../img/parallax/paint_parallax_1.jpg");
+  background-color: rgba(6, 32, 51, .9);
+  background-attachment: fixed !important;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0;
+}
+
+#brands img {
+  filter: grayscale(50%);
+  width: 100%;
+  aspect-ratio: 3/2;
+  object-fit: contain;
 }
 
 
@@ -509,7 +558,7 @@ body>section,
 ==========================================*/
 
 #facts {
-  background-image: url("../img/parallax/paint.jpg");
+  background-image: url("../img/parallax/paint_parallax_2.jpg");
   background-color: rgba(6, 32, 51, .8);
   background-attachment: fixed !important;
   background-position: center center;
@@ -570,9 +619,8 @@ body>section,
   padding-bottom: 0;
 }
 
-.contact-address h3 {
-  color: #062033;
-  font-size: 22px;
+.contact-address h2 {
+  color: #E71B64;
   line-height: 32px;
   margin-bottom: 25px;
 }
@@ -581,10 +629,8 @@ body>section,
   line-height: 24px;
 }
 
-.contact-form h3 {
-  color: #062033;
-  font-size: 24px;
-  font-weight: 700;
+.contact-form h2 {
+  color: #E71B64;
   line-height: 32px;
   margin-bottom: 25px;
 }
@@ -731,6 +777,12 @@ label.error {
 
 .footer-single p i {
   margin: 0 10px;
+}
+
+.footer-single img {
+  width: 100%;
+  aspect-ratio: 3/2;
+  object-fit: contain;
 }
 
 .credit a {

@@ -1,0 +1,135 @@
+{
+    "works": [
+        {
+            "img": "img/works/bruno.png",
+            "alt": "exterior commercial",
+            "title": "Our exterior work",
+            "type": "exterior commercial"
+        },
+        {
+            "img": "img/works/chatters.jpg",
+            "alt": "exterior work",
+            "title": "Our exterior work",
+            "type": "exterior commercial"
+        },
+        {
+            "img": "img/works/ext_com_1.jpg",
+            "alt": "exterior work",
+            "title": "Our exterior work",
+            "type": "exterior commercial"
+        },
+        {
+            "img": "img/works/ext_com_2.jpg",
+            "alt": "exterior work",
+            "title": "Our exterior work",
+            "type": "exterior commercial"
+        },
+        {
+            "img": "img/works/ext_resi_1.jpg",
+            "alt": "exterior residential work",
+            "title": "Our exterior work",
+            "type": "exterior residential"
+        },
+        {
+            "img": "img/works/ext_resi_2.jpg",
+            "alt": "exterior residential work",
+            "title": "Our exterior work",
+            "type": "exterior residential"
+        },
+        {
+            "img": "img/works/ext_resi_3.jpg",
+            "alt": "exterior residential work",
+            "title": "Our exterior work",
+            "type": "exterior residential"
+        },
+        {
+            "img": "img/works/ext_resi_4.jpg",
+            "alt": "exterior residential work",
+            "title": "Our exterior work",
+            "type": "exterior residential"
+        },
+        {
+            "img": "img/works/fairview.png",
+            "alt": "exterior commercial work",
+            "title": "Our exterior work",
+            "type": "exterior commercial"
+        },
+        {
+            "img": "img/works/int_resi_1.jpg",
+            "alt": "interior residential work",
+            "title": "Our exterior work",
+            "type": "interior residential"
+        },
+        {
+            "img": "img/works/int_resi_2.jpg",
+            "alt": "interior residential work",
+            "title": "Our exterior work",
+            "type": "interior residential"
+        },
+        {
+            "img": "img/works/kids&company.png",
+            "alt": "exterior commercial work",
+            "title": "Our exterior work",
+            "type": "exterior commercial"
+        },
+        {
+            "img": "img/works/mediterra.png",
+            "alt": "exterior commercial work",
+            "title": "Our exterior work",
+            "type": "exterior commercial"
+        },
+        {
+            "img": "img/works/quality.png",
+            "alt": "exterior commercial work",
+            "title": "Our exterior work",
+            "type": "exterior commercial"
+        }
+    ],
+    "testimonials": [
+        {
+            "review": "Fantastic! These folks painted our home's exterior, which was a little tricky as they had to match an old color and a new section of unpainted siding. It looks      great and uniform in color the whole way around. The price was competitive, and Ata was very professional, prompt, and courteous. Their work was meticulous. In addition, we have a medically vulnerable child and were worried about mask use inside - the crew seemed happy to mask up to protect our kiddo, a touch we appreciate very much! We have some interior painting to do in the next year or so. Ata will be our first stop when we are ready for that. We'd hire them again in a heartbeat.",
+            "client": "Martha and Corey S",
+            "website": "bbb"
+        },
+        {
+            "review": "Great experience with Ata Painting from the quote to the last minute finishes. My husband and I are seniors, and we didn't have to lift a finger through the process. The crew was on time, professional, friendly, and clean every day, despite some very humid weather. The crew's professional advice, from color suggestions to things we had not considered, was very valuable and appreciated. They aimed to please, and they sure did.",
+            "client": "Jennifer C",
+            "website": "bbb"
+        },
+        {
+            "review": "Ata Painting Service exceeds expectations. After having a very disappointing experience with another painting service, we were referred to Ata Painting Services. Hazal and Caner are prompt, professional, honest, kind, and do top-quality work in a fast, efficient manner. And their rates are highly competitive. They book up fast, but you will be so very pleased with the results!! We cannot recommend them enough. So very pleased!!",
+            "client": "Carrie E",
+            "website": "bbb"
+        },
+        {
+            "review": "ATA Painting is an excellent company to deal with. They are willing to take on any job and complete the work in a timely manner. I hired them to paint the inside of a new home that I recently purchased. The work was done on time and within the price quoted. Thank you for your professional service.",
+            "client": "Tim P",
+            "website": "bbb"
+        },
+        {
+            "review": "Ata was awesome! They painted our home's exterior, a tricky job as they had to match an old colour and a new section. It looks great! The crew was very professional, eager to hear our feedback, and the cost was competitive. We were especially pleased that the crew agreed to mask-up in enclosed situations to protect our medically vulnerable kid; they seemed happy to do so which meant a lot to us! Thank you! We have some interior painting to be done in the future - we will definitely be calling Ata. Highly recommend.",
+            "client": "Martha Walls",
+            "website": "google"
+        },
+        {
+            "review": "I had an excellent experience with ATA Painting. My project was put off for several weeks because of the rain and they fit me in. When Caner found a lot of rotten wood around the window frames and facia boards he arranged for a carpenter to give me a quote on the same day. Hazal is wonderful to deal with in that she keeps things going administratively. Canner is an excellent painter. I will definitely have them back to do more work",
+            "client": "Susan N Hazelwood",
+            "website": "google"
+        },
+        {
+            "review": "We had a great experience with Ata Painting. Our front porch needed to be re-painted and they were punctual and professional throughout the process. The porch looks fantastic and they let us know they'd come back if we weren't happy with anything.",
+            "client": "Nicole Power",
+            "website": "google"
+        },
+        {
+            "review": "I cannot say enough good things about Ata Painting. My home looks better than expected. Great value, professional, always on time, etc. Canar and his wife Hazal are friendly and went above and beyond. Best paiting company in Halifax.",
+            "client": "Nicole",
+            "website": "google"
+        },
+        {
+            "review": "Exceptional communication and punctuality was a feature of our relationship with ATA Painting. Hazel and Caner  were very kind to us and responsive to our needs. They were a pleasure to deal with and we are very pleased with the results of our exterior painting job.",
+            "client": "Sheila Frame",
+            "website": "google"
+        }
+    ]
+}

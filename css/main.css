@@ -537,7 +537,7 @@ body>section,
 ==========================================*/
 
 #brands {
-  background-image: url("../img/parallax/paint_parallax_1.jpg");
+  background-image: url("../img/parallax/paint_parallax_1.webp");
   background-color: rgba(6, 32, 51, .9);
   background-attachment: fixed !important;
   background-position: bottom;
@@ -559,7 +559,7 @@ body>section,
 ==========================================*/
 
 #facts {
-  background-image: url("../img/parallax/paint_parallax_2.jpg");
+  background-image: url("../img/parallax/paint_parallax_2.webp");
   background-color: rgba(6, 32, 51, .8);
   background-attachment: fixed !important;
   background-position: center center;

@@ -33,9 +33,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/png" href="img/logo.png">
 
-    <!-- Google Font -->
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
-
     <!-- 
 		CSS
 		================================================== 
@@ -56,8 +53,6 @@
     <!-- media-queries -->
     <link rel="stylesheet" href="css/media-queries.css">
 
-    <!-- Modernizer Script for old Browsers -->
-    <script src="js/modernizr-2.6.2.min.js"></script>
 
 </head>
 
@@ -88,7 +83,7 @@
                 <a class="navbar-brand" href="#body">
 
                     <h3>
-                        <img src="img/logo-nav.png"
+                        <img src="img/logo-nav.webp"
                             style="height: 55px; width: 50px; margin-right: 10px ; object-fit: fill;"
                             alt="Ata Painting Logo">
                         Ata Painting
@@ -133,7 +128,7 @@
             </ol>
             <div class="carousel-inner" role="listbox">
                 <div class="item active"
-                    style="background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url(img/hero/hero-1.jpg);">
+                    style="background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url(img/hero/hero_1.webp);">
                     <div class="carousel-caption">
                         <h1 data-wow-duration="700ms" data-wow-delay="500ms" class="wow bounceInDown animated">
                             Meet<span> Ata Painting</span>!
@@ -166,7 +161,7 @@
                     </div>
                 </div>
                 <div class="item"
-                    style="background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url(img/hero/hero-2.jpg);">
+                    style="background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url(img/hero/hero_2.webp);">
                     <div class="carousel-caption">
                         <h1 data-wow-duration="700ms" data-wow-delay="500ms" class="wow bounceInDown animated">
                             Meet<span> Ata Painting</span>!</h1>
@@ -242,11 +237,11 @@
                     </div>
                     <div class="col-md-6 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms"
                         data-wow-delay="300ms">
-                        <img src="img/brands/sherwin_williams.png" />
+                        <img src="img/brands/sherwin.webp" />
                     </div>
                     <div class="col-md-6 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms"
                         data-wow-delay="600ms">
-                        <img src="img/brands/dulux.png" />
+                        <img src="img/brands/dulux.webp" />
                     </div>
                 </div>
             </div>
@@ -605,19 +600,19 @@
                 <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInUp animated" data-wow-duration="500ms"
                     data-wow-delay="600ms">
                     <div class="footer-single text-center">
-                        <img src="img/bbb.png" alt="">
+                        <img src="img/bbb.webp" alt="">
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInUp animated" data-wow-duration="500ms"
                     data-wow-delay="900ms">
                     <div class="footer-single text-center">
-                        <img src="img/logo-white.png" alt="">
+                        <img src="img/logo-white.webp" alt="">
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInUp animated" data-wow-duration="500ms"
                     data-wow-delay="1200ms">
                     <div class="footer-single text-center">
-                        <img src="img/chamber.png" alt="">
+                        <img src="img/chamber.webp" alt="">
                     </div>
                 </div>
             </div>

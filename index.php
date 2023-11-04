@@ -403,38 +403,32 @@
                 </div>
 
                 <?php foreach ($data->testimonials as $key => $testimonial): ?>
-                <?php if ($key % 3 === 0): ?>
-                <div class="row">
-                    <?php endif; ?>
 
-                    <figure class="col-md-4 col-sm-6 col-xs-12 text-center wow fadeInUp animated"
-                        data-wow-duration="500ms" data-wow-delay="<?= $key * 300 ?>ms">
-                        <div class="testimonial">
-                            <div class="test-thumb">
-                                <i class="fa-solid fa-quote-left fa-3x"></i>
-                                <p><?= $testimonial->review ?></p>
-                                <a
-                                    href="https://www.bbb.org/ca/ns/middle-sackville/profile/painting-contractors/ata-painting-0087-73343/customer-reviews">
-                                    <span class="overlay">
-                                        <i class="fa fa-eye fa-lg"></i>
-                                        <h4>Click to see the full review</h4>
-                                    </span>
-                                </a>
-                            </div>
-                            <h4><?= $testimonial->client ?></h4>
-                            <span>
-                                <i class="fa-solid fa-star" style="color: #F8A926;"></i>
-                                <i class="fa-solid fa-star" style="color: #F8A926;"></i>
-                                <i class="fa-solid fa-star" style="color: #F8A926;"></i>
-                                <i class="fa-solid fa-star" style="color: #F8A926;"></i>
-                                <i class="fa-solid fa-star" style="color: #F8A926;"></i>
-                            </span>
+                <figure class="col-md-4 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms"
+                    data-wow-delay="<?= $key * 300 ?>ms">
+                    <div class="testimonial">
+                        <div class="test-thumb">
+                            <i class="fa-solid fa-quote-left fa-3x"></i>
+                            <p><?= $testimonial->review ?></p>
+                            <a
+                                href="https://www.bbb.org/ca/ns/middle-sackville/profile/painting-contractors/ata-painting-0087-73343/customer-reviews">
+                                <span class="overlay">
+                                    <i class="fa fa-eye fa-lg"></i>
+                                    <h4>Click to see the full review</h4>
+                                </span>
+                            </a>
                         </div>
-                    </figure>
+                        <h4><?= $testimonial->client ?></h4>
+                        <span>
+                            <i class="fa-solid fa-star" style="color: #F8A926;"></i>
+                            <i class="fa-solid fa-star" style="color: #F8A926;"></i>
+                            <i class="fa-solid fa-star" style="color: #F8A926;"></i>
+                            <i class="fa-solid fa-star" style="color: #F8A926;"></i>
+                            <i class="fa-solid fa-star" style="color: #F8A926;"></i>
+                        </span>
+                    </div>
+                </figure>
 
-                    <?php if (($key + 1) % 3 === 0 || $key === count($data->testimonials) - 1): ?>
-                </div>
-                <?php endif; ?>
                 <?php endforeach; ?>
             </div>
         </div>

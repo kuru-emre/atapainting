@@ -374,17 +374,18 @@ body>section,
 
 .work-item {
   float: left;
-  width: 25%;
+  width: 20%;
   position: relative;
-  padding: 2px;
+  padding: 5px;
 }
 
 .work-item>img {
   display: block;
-  height: 500px;
+  height: 400px;
   width: 100%;
+  padding: 3px;
   object-fit: cover;
-  background-color: #352F44;
+  background-color: #C7CED3;
 }
 
 .overlay {

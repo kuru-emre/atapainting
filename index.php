@@ -368,17 +368,27 @@
             <?php shuffle($data->works) ?>
             <?php foreach ($data->works as $work): ?>
             <figure class="<?= "mix work-item " . $work->type ?>">
-                <img src="<?= $work->img ?>" alt="<?= $work->alt ?>">
+                <?php
+            // Check if the image file name contains 'ext' or 'int'
+            $imageFileName = basename($work->img); // Get the file name from the image URL
+            if (strpos($imageFileName, 'ext') === false && strpos($imageFileName, 'int') === false) {
+                // If 'ext' and 'int' are not found in the file name, add a custom class
+                echo '<img src="' . $work->img . '" alt="' . $work->alt . '" style="object-fit: contain; !important">';
+            } else {
+                // If 'ext' or 'int' are found in the file name, don't add the custom class
+                echo '<img src="' . $work->img . '" alt="' . $work->alt . '">';
+            }
+            ?>
                 <a class="fancybox" rel="works" href="<?= $work->img ?>">
                     <figcaption class="overlay">
                         <i class="fa fa-eye fa-lg"></i>
                         <h4>Click to see the full image</h4>
                     </figcaption>
                 </a>
-
             </figure>
             <?php endforeach; ?>
         </div>
+
     </section>
 
     <!--

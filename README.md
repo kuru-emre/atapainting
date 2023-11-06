@@ -1,11 +1,23 @@
-.
-├── css/             => styling for the webpage
-├── fonts/           => iocal fonts
-├── img/             => images
-├── js/              => js / interactivity for the webpage
-├── .cpanel.yml      => cpanel deployment script
-├── .gitignore       => ignore certain files
-├── README.md        => documentation
-├── data.json        => image paths and testimonials storage
-├── index.php        => main page
-└── process.php      => email processing
+# Ata Painting Website
+A user-friendly and visually engaging animated website designed for Ata Painting Company.
+
+
+## Files
+```
+. 
+├── css/
+├── fonts/ 
+├── img/ 
+├── js/ 
+├── .cpanel.yml 
+├── .gitignore 
+├── README.md 
+├── data.json 
+├── index.php 
+└── process.php
+```
+
+
+
+## Notes
+Image paths and testimonials are conveniently stored in the **data.json** file. To update or add more images and testimonials, just make the desired changes to the file, and the website will dynamically reflect your preferences.

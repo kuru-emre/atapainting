@@ -1,6 +1,8 @@
 # Ata Painting Website
 A user-friendly and visually engaging animated website designed for Ata Painting Company.
 
+The source files are stored at: https://github.com/kuru-emre/atapainting
+
 
 ## Files
 ```

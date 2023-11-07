@@ -31,7 +31,7 @@
     <meta name="author" content="Emre Kuru">
     <!-- Mobile Specific Meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/png" href="img/logo.png">
+    <link rel="icon" type="image/webp" href="img/logo.webp">
 
     <!-- 
 		CSS

@@ -3,85 +3,76 @@
         {
             "img": "img/works/bruno.webp",
             "alt": "exterior commercial",
-            "title": "Our exterior work",
             "type": "exterior commercial"
         },
         {
             "img": "img/works/chatters.webp",
             "alt": "exterior work",
-            "title": "Our exterior work",
             "type": "exterior commercial"
         },
         {
             "img": "img/works/ext_com_1.webp",
             "alt": "exterior work",
-            "title": "Our exterior work",
             "type": "exterior commercial"
         },
         {
             "img": "img/works/ext_com_2.webp",
             "alt": "exterior work",
-            "title": "Our exterior work",
             "type": "exterior commercial"
         },
         {
             "img": "img/works/ext_resi_1.webp",
             "alt": "exterior residential work",
-            "title": "Our exterior work",
             "type": "exterior residential"
         },
         {
             "img": "img/works/ext_resi_2.webp",
             "alt": "exterior residential work",
-            "title": "Our exterior work",
             "type": "exterior residential"
         },
         {
             "img": "img/works/ext_resi_3.webp",
             "alt": "exterior residential work",
-            "title": "Our exterior work",
             "type": "exterior residential"
         },
         {
             "img": "img/works/ext_resi_4.webp",
             "alt": "exterior residential work",
-            "title": "Our exterior work",
             "type": "exterior residential"
         },
         {
             "img": "img/works/fairview.webp",
             "alt": "exterior commercial work",
-            "title": "Our exterior work",
             "type": "exterior commercial"
         },
         {
             "img": "img/works/int_resi_1.webp",
             "alt": "interior residential work",
-            "title": "Our exterior work",
             "type": "interior residential"
         },
         {
             "img": "img/works/int_resi_2.webp",
             "alt": "interior residential work",
-            "title": "Our exterior work",
             "type": "interior residential"
         },
         {
             "img": "img/works/kids&company.webp",
             "alt": "exterior commercial work",
-            "title": "Our exterior work",
             "type": "exterior commercial"
         },
         {
             "img": "img/works/mediterra.webp",
             "alt": "exterior commercial work",
-            "title": "Our exterior work",
             "type": "exterior commercial"
         },
         {
             "img": "img/works/quality.webp",
             "alt": "exterior commercial work",
-            "title": "Our exterior work",
+            "type": "exterior commercial"
+        },
+        {
+            "img": "img/works/cathedral.webp",
+            "alt": "exterior commercial work",
             "type": "exterior commercial"
         }
     ],

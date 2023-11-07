@@ -217,10 +217,7 @@
                 <div class="sec-sub-title text-center wow fadeInRight" style="width: 75%; margin: auto;"
                     data-wow-duration="500ms">
                     <p>
-                        With a focus on both residential and commercial projects, Ata Painting delivers exceptional
-                        painting services that not only enhance the aesthetics of your property but also protect it from
-                        the elements. We're dedicated to providing the highest quality workmanship, backed by years of
-                        experience in the industry.
+                    Ata Painting is a family-owned business that offers painting services for residential and commercial customers in HRM. Established in May 2021, the company is recognized for its high-quality jobs and exceptional customer satisfaction. Ata Painting was awarded the Small Business of the Year Award by ISANS last year, which speaks to the company's commitment to excellence. The team values customer reviews and strives to be prompt, respectful, and professional in every aspect of their work.
                     </p>
                 </div>
             </div>
@@ -232,7 +229,7 @@
             <div class="container">
                 <div class="row">
                     <div class="sec-title text-center mb50 wow rubberBand animated" data-wow-duration="1000ms">
-                        <h1>Our Brands</h1>
+                        <h1>Our Favourite Paint Brands</h1>
                         <div class="devider"><i class="fa-regular fa-lightbulb fa-xl"></i></i></div>
                     </div>
                     <div class="col-md-6 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms"
@@ -351,7 +348,6 @@
                     <ul class="text-center">
                         <li><a href="javascript:;" data-filter="all" class="active filter">All</a></li>
                         <li><a href="javascript:;" data-filter=".exterior" class="filter">Exterior</a></li>
-                        <li><a href="javascript:;" data-filter=".interior" class="filter">Interior</a></li>
                         <li><a href="javascript:;" data-filter=".residential" class="filter">Residential</a></li>
                         <li><a href="javascript:;" data-filter=".commercial" class="filter">Commercial</a></li>
                 </div>

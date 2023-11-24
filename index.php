@@ -530,6 +530,10 @@
                                     <input type="text" name="subject" id="subject" placeholder="Subject"
                                         class="form-control">
                                 </div>
+                                <div class="input-field">
+                                    <input type="text" name="phone" id="phone" placeholder="Phone Number"
+                                        class="form-control">
+                                </div>
                             </div>
                             <div class="input-group">
                                 <textarea name="message" id="message" placeholder="Message"

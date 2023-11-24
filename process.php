@@ -11,6 +11,7 @@
     $fields["email"] = "email";
     $fields["subject"] = "subject";
     $fields["message"] = "message";
+    $fields["phone"] = "phone";
 
     $body = "You have a new message!:\n\n"; foreach($fields as $a => $b){   $body .= sprintf("%20s: %s\n",$b,$_REQUEST[$a]); }
 

@@ -149,6 +149,9 @@ $(document).ready(function () {
             },
             message: {
                 required: true
+            },
+            phone: {
+                required: true
             }
         },
         messages: {
@@ -163,6 +166,9 @@ $(document).ready(function () {
             },
             message: {
                 required: "Please enter your message.",
+            },
+            phone: {
+                required: "Please enter your phone number.",
             }
         },
         submitHandler: function (form) {
